@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Colby Ryan
-- 👀 I am a junior in college double majoring in Computer Science and Mathematics. I’m interested in Graph Theory, Natural Language Processing, and Financial Technologies.
-- 🌱 I’m currently learning Programming Languages in Scheme.
+- 👀 I am a senior at Union College double majoring in Computer Science and Mathematics. I’m interested in Graph Theory, Natural Language Processing, and Financial Technologies.
 - 📫 You can reach me at colbyryan2019@gmail.com
 
 <!---
