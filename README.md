@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Colby Ryan
-- 👀 I am a senior at Union College double majoring in Computer Science and Mathematics. I’m interested in Graph Theory, Natural Language Processing, and Financial Technologies.
+- 👀 I am a Software Engineer living in Brooklyn, NY. I'm a Union College graduate, double major in Mathematics and Computer Science. I’m interested in Graph Theory, Natural Language Processing, and Financial Technologies.
+- I work on personal projects such as my app, Mathematica, on my repo.
 - 📫 You can reach me at colbyryan2019@gmail.com
 
 <!---
